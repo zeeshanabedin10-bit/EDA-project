@@ -1,5 +1,7 @@
 # 🏠 House Price EDA & Prediction Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zeeshanabedin10-bit/EDA-project/blob/main/EDA_House_Prices_Colab.ipynb)
+
 > **A complete data science project** — from raw data exploration to trained machine learning models that predict house sale prices.
 
 ---
