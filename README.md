@@ -13,25 +13,12 @@ eda project/
 ├── 📓 02_Feature_Engineering.ipynb      ← Step 2: Feature Engineering
 ├── 📓 03_Machine_Learning.ipynb         ← Step 3: ML Models & Evaluation
 │
-├── 📊 train.csv                         ← Ames Housing Dataset (1,460 rows × 81 cols)
-├── 📊 train_engineered.csv              ← Model-ready dataset (after engineering)
+├── 🐍 predict.py                        ← CLI & helper for price prediction
+├── 🖥️ app.py                            ← Streamlit web app UI
+├── 📦 requirements.txt                  ← Python dependencies
 │
-├── 🖼️ eda_dashboard.png                 ← Final EDA summary dashboard
-├── 🖼️ plot_01_saleprice_distribution.png
-├── 🖼️ plot_02_price_by_quality.png
-├── 🖼️ plot_03_price_by_neighborhood.png
-├── 🖼️ plot_04_countplots.png
-├── 🖼️ plot_05_scatter_plots.png
-├── 🖼️ plot_06_pairplot.png
-├── 🖼️ plot_07_heatmap.png
-├── 🖼️ plot_08_outliers.png
-├── 🖼️ plot_09_engineered_features.png
-├── 🖼️ plot_10_log_transform.png
-├── 🖼️ plot_11_model_comparison.png
-├── 🖼️ plot_12_actual_vs_predicted.png
-├── 🖼️ plot_13_residuals.png
-├── 🖼️ plot_14_feature_importance.png
-└── 🖼️ plot_15_lasso_coefficients.png
+├── 📊 train.csv                         ← Ames Housing Dataset (1,460 rows × 81 cols)
+└── 🖼️ eda_dashboard.png                 ← Final EDA summary dashboard
 ```
 
 ---

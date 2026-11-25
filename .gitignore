@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 .vscode/
 *.joblib
+*.html
+train_engineered.csv
+plot_*.png
+VIVA_QA.md
